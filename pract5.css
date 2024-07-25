@@ -1,0 +1,99 @@
+
+.abc{
+    margin-left: 90px;
+    margin-right: 90px;
+        background-color: red;
+        color: white;
+        text-align: center;
+        padding-bottom: 20px;
+        margin-bottom: 70px;
+    }
+    .btn{
+    background-color:#ECF0F1;
+    color: black;
+    padding: 13px;
+    border: white solid 1px;
+    border-radius: 10px ;
+
+}
+.aa{  
+    background-color: #E5E4E2;
+    color:black;
+    text-decoration: none;
+    font-weight: 300;
+    margin-left: 30px;
+    padding: 10px 20PX;
+    border-radius: 12px;
+    display:inline;
+}
+
+.aa:hover
+{ 
+    background-color: red;
+    color:white;
+    transition: 0.5s;
+    
+}
+.how{
+    background-color: red;
+    color:white;
+    text-decoration: none;
+    font-weight: 300;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    padding: 10px 20PX;
+    border-radius: 12px;
+    
+}
+   
+
+
+.news{
+    
+    margin-top: 15px;
+    background-color:	#FBFFFF;
+    height:430px;
+    width:500px;
+    text-align: justify;
+    border-radius: 30px; 
+    margin-right: 30px;
+}
+.news:hover{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.pp{
+    padding-left: 20px;
+    padding-right: 12px;
+    font-weight: lighter;
+}
+.pp1{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 12px;
+    text-align: justify;
+}
+.img{
+    border-radius: 15px 15px 0px 0px;
+    width:500px;
+    height:200px;
+}
+.btn3{
+    margin-left: 20px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 5px 10px;
+    margin-right: 30px;
+    border-radius: 10px ;
+}
+.btn3:hover{
+    background-color: rgb(243, 188, 188);
+    color:black;
+    transition: 0.5s;
+}
+.img1{
+    border-radius: 15px;
+    width:500px;
+    height:260px;
+}
